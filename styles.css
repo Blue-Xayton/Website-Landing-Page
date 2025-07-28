@@ -278,4 +278,23 @@
 
   /*About Style Section*/
 
+  .why-me {
+    padding: 60px 20px;
+    
+    text-align: center;
+    color:#c2cabd
+  }
   
+  .reasons {
+    list-style: none;
+    padding: 0;
+    margin: 30px auto;
+    max-width: 600px;
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  .reasons li {
+    margin-bottom: 15px;
+    position: relative;
+    padding-left: 25px;
+  }  
